@@ -22,3 +22,8 @@ Important notes
 The application has predefined colors (random) for the editing lines.
 All tests were performed with a real phone through the MIT AI2 Companion application
 Below is a detail of the application logic blocks
+![image](https://github.com/mijuanmontalvo/JuanMontalvo_snapmix_default_1/assets/122574675/8a39dd94-3e02-4a16-a1f1-1ae4a8908a8a)
+
+
+This application was developed using a tutorial from MIT App Inventor, based on this application some changes and adjustments were made
+
